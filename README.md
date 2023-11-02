@@ -61,10 +61,3 @@ https://github.com/iCrawl/discord-vscode/issues/85#issuecomment-417895483
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
 6. Submit a pull request :D
-
-## Author
-
-**Discord Presence** © [racxman](https://github.com/racxman).  
-Authored and maintained by racxman.
-
-> GitHub [@racxman](https://github.com/racxman)
